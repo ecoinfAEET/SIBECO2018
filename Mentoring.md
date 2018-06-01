@@ -15,11 +15,9 @@ Workshop will be scheduled on Monday, 4th of February 2019. Time allocated to ea
 
 •	Summary* (100-250 words):
  
-With the desire to cultivate the best in the next generation of researchers, we will organize an orientation workshop in which students (undergraduate, master or phD) can share experiences with more experienced researchers. The aim of this workshop is to help students choose which talks to see, discuss about the talks seen during the conference, as well as more general advice on the scientific career, future options etc.
+With the desire to cultivate the best in the next generation of researchers in ecology, we will organize an orientation and mentoring workshop in which early career researchers (e.g., undergraduate or master students, PhD candidates) can share experiences with more experienced researchers. The workshop is designed to help early career researchers navigate throughout the SIBECOL conference experience. This will include help in choosing which talks to attend, discussing relevant talks seen during the conference, as well as more general advice on the scientific career and professional development or future options and funding programmes. In addition, conferences represent an ideal place for researchers to interact with others in their field or in other fields, yet these interactions tend to be more difficult in the case of early career researchers, thus, mentors might also help in introducing their mentee to other relevant senior scientists. Mentors will be paired with early career mentees based on their common research interests. Mentoring relationships will be established during the first day of the conference and will be continued during the whole duration of the conference. Ideally, after the first informal meeting, mentors and mentees will communicate (via email, phone, social networks) to plan future meetings in which they can discuss conference highlights (e.g., during poster sessions). Mentors are also asked to attend the mentee´s talk or poster and provide feedback.
  
-This workshop will take place on the first day of the conference where we will have an event where mentors and students will have the opportunity to meet and talk. Furthermore, we encourage you to plan other meetings one on one during the conference, for example during the poster sessions.
- 
-Interested mentors and student, will need to sign up for this event in the registration form.
+Interested mentors and mentees will need to sign up for this event in the registration form, indicating with 5 keywords their main scientific interests.
 
 This will be a free service for students and non remunerated for mentors.
 
@@ -29,8 +27,8 @@ Affiliation: EBD-CSIC
 e-mail: nacho.bartomeus@gmail.com
 
 Full name: Ainhoa Magrach 
-Affiliation: 
-e-mail
+Affiliation: Basque Centre for Climate Change, BC3
+e-mail: ainhoa.magrach@bc3research.org
 
 ##This workshop is organized by the ECOINFORMATICA working group. 
 
