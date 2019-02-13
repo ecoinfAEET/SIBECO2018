@@ -8,14 +8,16 @@ Repo para coordinar los workshops de ecoinf en el SIBECOL 2019 (http://www.congr
 
 **Ciencia reproducible:** Paco Rodriguez, ...
 
-**tidyverse:** Aitor Ameztegui, ... 
-
-**análisis de series temporales con especial énfasis en modelos GLM y GLMM:** Oscar Godoy
+**tidyverse:** Aitor Ameztegui, y Victor Granada:  
+presentación código fondo negro: https://sibecol-tidyverse-workshop.netlify.com  
+presentación código fondo blanco: https://sibecol-tidyverse-workshop-alt.netlify.com  
+repositorio github: https://github.com/ameztegui/tidyverse_workshop  
+ 
+**Multiple stressors**: Tano Gutiérrez-Cánovas y Pol Capdevila: https://github.com/tanogc/Multistressors-SIBECOL
 
 ## Otros eventos: 
 
 **Mentoring:** Organizan Ainhoa Magrach y Nacho Bartomeus  
 
-**Hackathon:** Hugo Saiz y ...   (+Nacho Bartomeus de apoyo)  
-> Hay que pensar bien como se organiza, necesitariamos hacerlo un dia antes y pedir aula con internet. Nacho conoce gente de la UB para facilitar el proceso.
+**Hackathon:** Hugo Saiz y Nacho Bartomeus:  https://github.com/ecoinfAEET/dataton_sibecol_2019
 
