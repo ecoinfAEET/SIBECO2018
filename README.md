@@ -4,10 +4,6 @@ Repo para coordinar los workshops de ecoinf en el SIBECOL 2019 (http://www.congr
 
 ## Workshops: 
 
-**ggplot**: Alejandro Gonzalez, Julia Chacon, ...  
-
-**Ciencia reproducible:** Paco Rodriguez, ...
-
 **tidyverse:** Aitor Ameztegui, y Victor Granada:  
 presentación código fondo negro: https://sibecol-tidyverse-workshop.netlify.com  
 presentación código fondo blanco: https://sibecol-tidyverse-workshop-alt.netlify.com  
@@ -17,7 +13,7 @@ repositorio github: https://github.com/ameztegui/tidyverse_workshop
 
 ## Otros eventos: 
 
-**Mentoring:** Organizan Ainhoa Magrach y Nacho Bartomeus  
+**Mentoring:** Organizan Ainhoa Magrach y Nacho Bartomeus: https://github.com/ecoinfAEET/SIBECOL2019/blob/master/Mentoring.md  
 
 **Hackathon:** Hugo Saiz y Nacho Bartomeus:  https://github.com/ecoinfAEET/dataton_sibecol_2019
 
